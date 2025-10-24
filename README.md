@@ -1,12 +1,12 @@
 # Script-Wise-
 
 
-**` 🧩 Sobre a ScriptWise`**
+**`Sobre a ScriptWise`**
 
 A **ScriptWise** é uma startup em formação, composta por mentes criativas e apaixonadas por tecnologia.  
 Atuamos atualmente com **projetos freelancer**, desenvolvendo soluções sob medida com foco em **qualidade, performance e inovação**.  
 
-💡 Nosso objetivo é evoluir constantemente como equipe e, em breve, lançar **nosso próprio sistema e programas autorais**.
+Nosso objetivo é evoluir constantemente como equipe e, em breve, lançar **nosso próprio sistema e programas autorais**.
 
 Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns cursando **Engenharia de Software** ou **Engenharia Elétrica**, outros trilhando caminhos autodidatas — mas todos unidos por um mesmo propósito:  
 > **Criar tecnologia inteligente, eficiente e humana.**
