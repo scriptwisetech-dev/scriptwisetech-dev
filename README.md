@@ -36,7 +36,7 @@ Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns
     title="html"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)"
+    src="[[https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)"
 />
 
 
