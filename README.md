@@ -30,6 +30,16 @@ Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="html" 
+    title="html"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)"
+/>
+
+
 
 <img 
     align="left" 
