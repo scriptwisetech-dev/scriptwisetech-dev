@@ -6,7 +6,7 @@
 A **ScriptWise** é uma startup em formação, composta por mentes criativas e apaixonadas por tecnologia.  
 Atuamos atualmente com **projetos freelancer**, desenvolvendo soluções sob medida com foco em **qualidade, performance e inovação**.  
 
-💡 Nosso objetivo é evoluir constantemente como equipe e, em breve, lançar **nosso próprio sistema e programas autorais**, unindo o melhor da **engenharia de software** e da **engenharia elétrica**.
+💡 Nosso objetivo é evoluir constantemente como equipe e, em breve, lançar **nosso próprio sistema e programas autorais**.
 
 Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns cursando **Engenharia de Software** ou **Engenharia Elétrica**, outros trilhando caminhos autodidatas — mas todos unidos por um mesmo propósito:  
 > **Criar tecnologia inteligente, eficiente e humana.**
