@@ -21,8 +21,7 @@ Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns
 
 
 
-[![Instagram](https://www.instagram.com/scriptwise.tech/)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/scriptwise.tech/)
 
 <h3 align="left">My Stack ~</h3>
 
