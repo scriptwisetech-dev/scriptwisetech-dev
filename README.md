@@ -33,11 +33,11 @@ Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="js" 
+    title="js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
 />
 
 
