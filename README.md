@@ -12,7 +12,7 @@ Nosso time é formado por desenvolvedores com diferentes trajetórias — alguns
 > **Criar tecnologia inteligente, eficiente e humana.**
 
 
-<a href="https://github.com/Castrof14">
+<a href="https://github.com/scriptwisetech-dev">
         
          
 
