@@ -93,7 +93,7 @@ src="https://camo.githubusercontent.com/ebe0d1c7160f3845c251ae204ba90b58c8106a0a
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Castrof14/Castrof14a/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Castrof14/Castrof14/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/scriptwisetech-dev">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/scriptwisetech-dev">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/scriptwisetech-dev">
 </picture>
